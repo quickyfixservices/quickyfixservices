@@ -22,6 +22,16 @@
   box-shadow: none !important;
 }
 
+.dev-mail {
+  color: blue; /* same color as text */
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.dev-mail:hover {
+  color: #0d6efd; /* or your theme color */
+}
+
 /* ***************Navigation ********************** */
 .main-nav-list {
   list-style: none;
